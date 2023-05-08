@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikashSingh-GitHub/bikash-portfolio-website/static/css/main.f890a6a6.css",
+    "main.js": "/BikashSingh-GitHub/bikash-portfolio-website/static/js/main.b04266aa.js",
+    "index.html": "/BikashSingh-GitHub/bikash-portfolio-website/index.html",
+    "main.f890a6a6.css.map": "/BikashSingh-GitHub/bikash-portfolio-website/static/css/main.f890a6a6.css.map",
+    "main.b04266aa.js.map": "/BikashSingh-GitHub/bikash-portfolio-website/static/js/main.b04266aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f890a6a6.css",
+    "static/js/main.b04266aa.js"
+  ]
+}
